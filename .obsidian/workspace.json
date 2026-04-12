@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pc-test.md",
+                "file": "Nasa trial 123.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pc-test"
+              "title": "Nasa trial 123"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pc-test.md",
+                "file": "Nasa trial 123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pc-test"
+              "title": "Backlinks for Nasa trial 123"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pc-test.md",
+                "file": "Nasa trial 123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pc-test"
+              "title": "Outgoing links from Nasa trial 123"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pc-test.md",
+                "file": "Nasa trial 123.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pc-test"
+              "title": "Outline of Nasa trial 123"
             }
           }
         ]
@@ -185,7 +185,7 @@
   },
   "active": "678bd22907006700",
   "lastOpenFiles": [
-    "Nasa trial 1234567.md",
-    "pc-test.md"
+    "pc-test123.md",
+    "Nasa trial 123.md"
   ]
 }
