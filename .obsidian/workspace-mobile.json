@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nasa trial 123.md",
+                "file": "Nasa trial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nasa trial 123"
+              "title": "Nasa trial"
             }
           }
         ]
@@ -167,6 +167,6 @@
   },
   "active": "91eb7a3c8ca33159",
   "lastOpenFiles": [
-    "Nasa trial 123.md"
+    "Nasa trial.md"
   ]
 }
