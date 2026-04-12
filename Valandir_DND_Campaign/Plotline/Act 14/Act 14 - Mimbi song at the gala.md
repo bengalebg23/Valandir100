@@ -1,0 +1,5 @@
+Nobody planned it. There wasn't an announcement. But somewhere between the second course and the speeches, Mimbi started to sing.
+It began quietly — almost accidentally, the way a candle catches. But the acoustics in the hall are extraordinary, and within a few bars the nearest conversations simply... stopped. Not rudely. More like streams finding still water.
+By the time she's fully into it, there's a circle of space around her that nobody consciously created. A guild scholar has put down his fork. Two women near the window are holding each other's hands without seeming to realise it. Jacob, from across the room, has gone completely still, his oversized coat sleeve pressed to his face.
+Kermin catches your eye from across the hall. He raises his glass very slightly. Well done, his expression says. This is exactly what this room needed.
+Even Hector de Léon, mid-conversation near the windows, has gone quiet. He doesn't turn to look. But he stops talking

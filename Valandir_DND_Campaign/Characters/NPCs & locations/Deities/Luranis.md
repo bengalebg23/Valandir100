@@ -1,0 +1,1 @@
+Luranis was the deity of healing, compassion, and the sanctity of life.
