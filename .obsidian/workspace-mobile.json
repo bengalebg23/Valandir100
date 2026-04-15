@@ -11,14 +11,12 @@
             "id": "91eb7a3c8ca33159",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Nasa trial 1234567.md",
-                "mode": "source",
-                "source": false
+                "file": "Z_Attachments 1/Maps/market-district-50x45-v0-x2tyy179kr0b1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Nasa trial 1234567"
+              "icon": "lucide-image",
+              "title": "market-district-50x45-v0-x2tyy179kr0b1"
             }
           }
         ]
@@ -165,9 +163,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "c3814412321b5616",
+  "active": "91eb7a3c8ca33159",
   "lastOpenFiles": [
-    "pc-test.md",
-    "Nasa trial 1234567.md"
+    "Valandir_DND_Campaign/_Campaign_State.md",
+    "Z_Attachments 1/Maps/market-district-50x45-v0-x2tyy179kr0b1.jpg",
+    "Valandir_DND_Campaign/Plotline/Act 14/Act 14 - The Gala.md",
+    "Valandir_DND_Campaign/Plotline/Act 14/Act14-trial123.md",
+    "Untitled.md",
+    "Gemini_Generated_Image_cbtuyncbtuyncbtu.png",
+    "Valandir_DND_Campaign/Plotline/Act 14/Act 14 - Fight Garrus before the Gala.md",
+    "Z_Attachments 1/Maps/Streets.jpg",
+    "Z_Attachments 1/Maps/town-dnd-map-by-drmapzo 1.jpg",
+    "Z_Attachments 1/Screenshot_20260324-224221.png",
+    "Z_Attachments 1/Screenshot_20260324-224221 1.png",
+    "PC pushing the limit2.md",
+    "Nasa flights2.md",
+    "Nasa trial 123.md",
+    "Valandir_DND_Campaign/Plotline/Act 14/Act 14 NPCs.md",
+    "Z_Attachments 1/Maps/market-district-50x45-v0-es8qs079kr0b1.jpg",
+    "Z_Attachments 1/Maps/market-district-50x45-v0-67iax079kr0b1.jpg",
+    "Valandir_DND_Campaign/Session_notes/Session 13.md",
+    "Z_Attachments 1/Maps/AG corridors.jpg",
+    "Z_Attachments 1/Maps/market-district-50x45-v0-7odo8279kr0b1.jpg",
+    "Lady Isolde Ashvane - Gala.md",
+    "Maren Gloss.md",
+    "Theron Ashby.md",
+    "Valandir_DND_Campaign/Plotline/Act 14/Act 14 - Introduce the Helios rumour.md",
+    "Valandir_DND_Campaign/Plotline/Act 14/The Broken Keel fight.md",
+    "Cornelius Thatch - Gala.md",
+    "Lord Pell Dawnwick - Gala.md",
+    "Vaelis - Gala.md",
+    "Kermin - Gala.md",
+    "Valandir_DND_Campaign/Characters/NPCs & locations/Broken Crown Syndicate/Marcell Veyron.md",
+    "Valandir_DND_Campaign/Characters/Main group (EGC)/Minbi Drugledamp.md",
+    "Nasa trial 1234567.md",
+    "pc-test123.md",
+    "pc-test.md"
   ]
 }
