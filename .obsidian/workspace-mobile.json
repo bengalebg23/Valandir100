@@ -11,12 +11,14 @@
             "id": "91eb7a3c8ca33159",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Z_Attachments 1/Maps/market-district-50x45-v0-x2tyy179kr0b1.jpg"
+                "file": "Valandir_DND_Campaign/Session_notes/Session 13.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "market-district-50x45-v0-x2tyy179kr0b1"
+              "icon": "lucide-file",
+              "title": "Session 13"
             }
           }
         ]
@@ -165,9 +167,12 @@
   },
   "active": "91eb7a3c8ca33159",
   "lastOpenFiles": [
-    "Valandir_DND_Campaign/_Campaign_State.md",
-    "Z_Attachments 1/Maps/market-district-50x45-v0-x2tyy179kr0b1.jpg",
     "Valandir_DND_Campaign/Plotline/Act 14/Act 14 - The Gala.md",
+    "Valandir_DND_Campaign/Session_notes/Session 13.md",
+    "Valandir_DND_Campaign/Characters/NPCs & locations/Family to party/Thalira Barkwood.md",
+    "Valandir_DND_Campaign/Characters/Main group (EGC)/Arura barkwood.md",
+    "Z_Attachments 1/Maps/market-district-50x45-v0-x2tyy179kr0b1.jpg",
+    "Valandir_DND_Campaign/_Campaign_State.md",
     "Valandir_DND_Campaign/Plotline/Act 14/Act14-trial123.md",
     "Untitled.md",
     "Gemini_Generated_Image_cbtuyncbtuyncbtu.png",
@@ -182,7 +187,6 @@
     "Valandir_DND_Campaign/Plotline/Act 14/Act 14 NPCs.md",
     "Z_Attachments 1/Maps/market-district-50x45-v0-es8qs079kr0b1.jpg",
     "Z_Attachments 1/Maps/market-district-50x45-v0-67iax079kr0b1.jpg",
-    "Valandir_DND_Campaign/Session_notes/Session 13.md",
     "Z_Attachments 1/Maps/AG corridors.jpg",
     "Z_Attachments 1/Maps/market-district-50x45-v0-7odo8279kr0b1.jpg",
     "Lady Isolde Ashvane - Gala.md",

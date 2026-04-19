@@ -23,3 +23,4 @@
 
 [[Act 14 - The Gala]]
 
+Session notes
