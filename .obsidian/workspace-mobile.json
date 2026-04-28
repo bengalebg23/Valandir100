@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valandir_DND_Campaign/Session_notes/Session 13.md",
+                "file": "Valandir_DND_Campaign/_Campaign_State.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 13"
+              "title": "_Campaign_State"
+            }
+          },
+          {
+            "id": "9cd5b25214591cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 15 - Sewer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Act 15 - Sewer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,6 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Valandir_DND_Campaign/_Campaign_State.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,16 +181,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "91eb7a3c8ca33159",
+  "active": "9cd5b25214591cb2",
   "lastOpenFiles": [
-    "Valandir_DND_Campaign/Plotline/Act 14/Act 14 - The Gala.md",
+    "Valandir_DND_Campaign/_Campaign_State.md",
+    "Act 15 - Sewer.md",
+    "Act15 Sewer",
+    "Act 15 - The Docks Battle Escaping Valandir.md",
     "Valandir_DND_Campaign/Session_notes/Session 13.md",
+    "Valandir_DND_Campaign/Plotline/Act 15/Act15_GalaAmbush.md",
     "Valandir_DND_Campaign/Characters/NPCs & locations/Family to party/Thalira Barkwood.md",
+    "Valandir_DND_Campaign/Plotline/Act 14/Act 14 - The Gala.md",
+    "short.md",
     "Valandir_DND_Campaign/Characters/Main group (EGC)/Arura barkwood.md",
     "Z_Attachments 1/Maps/market-district-50x45-v0-x2tyy179kr0b1.jpg",
-    "Valandir_DND_Campaign/_Campaign_State.md",
     "Valandir_DND_Campaign/Plotline/Act 14/Act14-trial123.md",
-    "Untitled.md",
     "Gemini_Generated_Image_cbtuyncbtuyncbtu.png",
     "Valandir_DND_Campaign/Plotline/Act 14/Act 14 - Fight Garrus before the Gala.md",
     "Z_Attachments 1/Maps/Streets.jpg",
@@ -198,10 +218,6 @@
     "Lord Pell Dawnwick - Gala.md",
     "Vaelis - Gala.md",
     "Kermin - Gala.md",
-    "Valandir_DND_Campaign/Characters/NPCs & locations/Broken Crown Syndicate/Marcell Veyron.md",
-    "Valandir_DND_Campaign/Characters/Main group (EGC)/Minbi Drugledamp.md",
-    "Nasa trial 1234567.md",
-    "pc-test123.md",
-    "pc-test.md"
+    "Valandir_DND_Campaign/Characters/NPCs & locations/Broken Crown Syndicate/Marcell Veyron.md"
   ]
 }

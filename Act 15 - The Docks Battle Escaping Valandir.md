@@ -1,4 +1,3 @@
-# Session 14 — The Docks Battle: Escaping Valandir
 
 ## Scene Setup
 
