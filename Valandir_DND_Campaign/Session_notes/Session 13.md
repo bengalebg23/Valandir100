@@ -24,3 +24,18 @@
 [[Act 14 - The Gala]]
 
 Session notes
+- fight with Garrus avoided 
+- mimbi sang from the carriage
+- talked to Hugo
+- Kermin speech
+- mimbi sang a song
+- Cornelius offered the jungle contract
+- Hugo called out the nobility that the BCS should be stopped
+-  Wrestled Vaelis
+
+[[Act 15 - The Docks Battle Escaping Valandir]]
+[[Act 15 - Sewer]]
+[[Session 15]]
+
+
+

@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 15 - Sewer.md",
+                "file": "Valandir_DND_Campaign/Session_notes/Session 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Act 15 - Sewer"
+              "title": "Session 13"
+            }
+          },
+          {
+            "id": "aaf84c8a46032495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 14"
+            }
+          },
+          {
+            "id": "85187d6e0eea43bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 15 - The Warehouse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 15 - The Warehouse"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,20 +209,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "9cd5b25214591cb2",
+  "active": "85187d6e0eea43bf",
   "lastOpenFiles": [
-    "Valandir_DND_Campaign/_Campaign_State.md",
+    "Session14_Plan.md",
+    "_Campaign_State-1.md",
+    "Session14_SewerCrawl-1.md",
+    "Session14_GalaAmbush-1.md",
+    "Session14_Plan-1.md",
+    "Session13_Summary.md",
+    "Session14_SewerCrawl-2.md",
+    "Session14_Plan-2.md",
+    "Session14_GalaAmbush-2.md",
+    "Session13_Summary-1.md",
+    "_Campaign_State-2.md",
+    "warehouse-100ppi-v0-dwvk9gu82vz71.jpg",
+    "harbor-warehouse-38x28-by-forgotten-adventures-v0-136zf8lruewe1.jpg",
+    "HarborWarehouse_Grid_38x28_70ppi.jpg",
+    "Valandir_DND_Campaign/Session_notes/Session 13.md",
+    "Session 14.md",
+    "Session 15 - The Warehouse.md",
+    "Untitled",
+    "Valandir_DND_Campaign/Plotline/Act 14/Act 14 - The Gala.md",
     "Act 15 - Sewer.md",
+    "Valandir_DND_Campaign/Plotline/Act 14/Vaelis at the gala.md",
+    "Valandir_DND_Campaign/Plotline/Act 14/Act14-trial123.md",
+    "Valandir_DND_Campaign/_Campaign_State.md",
     "Act15 Sewer",
     "Act 15 - The Docks Battle Escaping Valandir.md",
-    "Valandir_DND_Campaign/Session_notes/Session 13.md",
     "Valandir_DND_Campaign/Plotline/Act 15/Act15_GalaAmbush.md",
     "Valandir_DND_Campaign/Characters/NPCs & locations/Family to party/Thalira Barkwood.md",
-    "Valandir_DND_Campaign/Plotline/Act 14/Act 14 - The Gala.md",
     "short.md",
     "Valandir_DND_Campaign/Characters/Main group (EGC)/Arura barkwood.md",
     "Z_Attachments 1/Maps/market-district-50x45-v0-x2tyy179kr0b1.jpg",
-    "Valandir_DND_Campaign/Plotline/Act 14/Act14-trial123.md",
     "Gemini_Generated_Image_cbtuyncbtuyncbtu.png",
     "Valandir_DND_Campaign/Plotline/Act 14/Act 14 - Fight Garrus before the Gala.md",
     "Z_Attachments 1/Maps/Streets.jpg",
@@ -202,22 +248,6 @@
     "Z_Attachments 1/Screenshot_20260324-224221.png",
     "Z_Attachments 1/Screenshot_20260324-224221 1.png",
     "PC pushing the limit2.md",
-    "Nasa flights2.md",
-    "Nasa trial 123.md",
-    "Valandir_DND_Campaign/Plotline/Act 14/Act 14 NPCs.md",
-    "Z_Attachments 1/Maps/market-district-50x45-v0-es8qs079kr0b1.jpg",
-    "Z_Attachments 1/Maps/market-district-50x45-v0-67iax079kr0b1.jpg",
-    "Z_Attachments 1/Maps/AG corridors.jpg",
-    "Z_Attachments 1/Maps/market-district-50x45-v0-7odo8279kr0b1.jpg",
-    "Lady Isolde Ashvane - Gala.md",
-    "Maren Gloss.md",
-    "Theron Ashby.md",
-    "Valandir_DND_Campaign/Plotline/Act 14/Act 14 - Introduce the Helios rumour.md",
-    "Valandir_DND_Campaign/Plotline/Act 14/The Broken Keel fight.md",
-    "Cornelius Thatch - Gala.md",
-    "Lord Pell Dawnwick - Gala.md",
-    "Vaelis - Gala.md",
-    "Kermin - Gala.md",
-    "Valandir_DND_Campaign/Characters/NPCs & locations/Broken Crown Syndicate/Marcell Veyron.md"
+    "Z_Attachments 1/Maps/market-district-50x45-v0-es8qs079kr0b1.jpg"
   ]
 }
