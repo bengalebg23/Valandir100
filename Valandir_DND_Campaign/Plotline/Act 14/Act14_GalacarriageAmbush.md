@@ -1,5 +1,3 @@
-# Session 14 — The Gala Ambush
-
 ## The Setup
 The party exit the gala to find their carriage on fire. The driver is on the ground. The weapons trunk has been unclipped from the carriage and sits nearby — close enough to the fire that in **2 turns it will also catch**. Anyone moving close enough to the trunk takes **fire damage**.
 

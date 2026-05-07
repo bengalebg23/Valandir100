@@ -18,42 +18,6 @@ These conditions apply in every room unless stated otherwise:
 
 ---
 
-## Map Overview
-
-```
-[SEWER ENTRANCE]
-       |
-  [PASSAGE A]
-  narrow tunnel, 5ft wide
-       |
-[ROOM 1 — THE JUNCTION]
-  Giant Crocodile
-       |
-  [PASSAGE B]
-  branching tunnel, side route closes off
-       |
-[ROOM 2 — THE CISTERN PILLARS]
-  Giant Centipedes
-       |
-  [PASSAGE C]
-  widens slightly, 8ft wide
-       |
-[ROOM 3 — THE NEST CHAMBER]
-  Otyugh
-       |
-  [PASSAGE D]
-  final approach, 10ft wide, 8ft ceiling
-       |
-[ROOM 4 — THE FINAL CHAMBER]
-  Troll (BCS marked)
-       |
-  [LADDER UP]
-       |
-[WAREHOUSE BASEMENT]
-```
-
----
-
 ## Room 1 — The Junction
 *A branching junction where two passages meet. Brick archways, green slick walls, torchlight barely reaching the far end.*
 

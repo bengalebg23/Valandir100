@@ -67,6 +67,7 @@ Option C — The Sewer
 Library basement entrance. Iron grate behind a shelf of restricted texts. Last used years ago.
 Kermin opens it. Doesn't ask questions.
 "Fourth junction — go left, not right. Right takes you under the Guild district. You won't come back from that."
+
 He doesn't explain further.
 The route: See Session 14 — Sewer Crawl document for full encounter details.
 Four encounters. Attrition is the enemy. The party surface through a trapdoor directly into the warehouse basement — right where Jaunty is held and right where the crystal crate is sitting.

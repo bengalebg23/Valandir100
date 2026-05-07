@@ -1,4 +1,4 @@
-[[GREYWILLOW]]
+[[Unused GREYWILLOW]]
 
 AC 13
 HP 27 (6d8)

@@ -1,4 +1,4 @@
-[[GREYWILLOW]]
+[[Unused GREYWILLOW]]
 
 Void-Touched Wisp
 Tiny Aberration, Unaligned

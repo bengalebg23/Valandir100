@@ -1,9 +1,4 @@
-# Session 14 — The Warehouse
-## Session Plan
-
----
-
-## The Shape of the Session
+[[Act 14 - The Gala]]
 
 **Opening:** The wait at the Library. Three conversations happen before Helios responds.
 **Middle:** Helios draws them to the warehouse. The party choose their approach.
@@ -60,27 +55,6 @@ The noble alliance is now one family. But that one family just gave the party th
 
 ---
 
-### Scene C — Vaelis Makes His Move
-
-Vaelis has been sitting bound, watching everything. Calculating. He speaks when the moment is right — quietly, without being asked.
-
-*"He has your housekeeper. Took her before the gala ended. He planned this before you sent that raven."*
-
-He lets that land. Then:
-
-*"I know the warehouse. I've done work there. I can give you the layout. And I can coat your blades with something that will matter inside those walls — the same compound that stopped Marcell Veyron."*
-
-**His ask:**
-Trade route priority through Velmoran-controlled passages. Freedom eventually, or at minimum not a Library cell. The party not telling Helios he talked.
-
-**What he gives in return:**
-- The warehouse layout (see Part 3)
-- Blade poison — contact poison, DC 14 Con save or poisoned condition for 1 hour. Applied to up to four weapons.
-- Confirmation that Helios has a crystal shipment ready to go out at dawn by barge
-
-**The party should not fully trust him.** But the poison going into an unarmoured warehouse fight is very tempting.
-
----
 
 ### Helios Responds
 
@@ -92,99 +66,8 @@ He is drawing them to him. He thinks he controls this. He has Jaunty. He has the
 
 ---
 
-## Part 2 — Getting to the Warehouse
-
-Three options. Each with real trade-offs.
-
----
-
-### Option A — The Street
-Direct approach through the dockside district.
-
-**What happens:** Helios has men positioned on every approach. The party are made within two blocks. They arrive at the warehouse already in a fight, already known, element of surprise completely gone.
-
-**Only viable if:** The party want a straight brawl and have accepted they are walking into a trap on his terms.
-
----
-
-### Option B — The Sloop
-The merchant family's boat. Night approach from the harbour. Dark, quiet, comes in from the water side of the warehouse.
-
-**Advantages:**
-- Unguarded — Helios has not considered the water approach
-- Deposits the party directly at the warehouse's harbour access
-- The crystal crate can leave the same way it came in — sloop is already there
-
-**Complications:**
-- Needs someone who can handle a boat (Dex or Survival check)
-- Approaching in darkness — Perception checks to navigate without noise
-- No sewer intel this way — the party don't know the basement layout unless Vaelis has told them
-
-**Best for:** A small fast team going straight for Jaunty and the crystals.
-
----
-
-### Option C — The Sewer
-Library basement entrance. Iron grate behind a shelf of restricted texts. Last used years ago.
-
-Kermin opens it. Doesn't ask questions.
-
-*"Fourth junction — go left, not right. Right takes you under the Guild district. You won't come back from that."*
-
-He doesn't explain further.
-
-**The route:** See Session 14 — Sewer Crawl document for full encounter details.
-
-Four encounters. Attrition is the enemy. The party surface through a trapdoor directly into the warehouse basement — right where Jaunty is held and right where the crystal crate is sitting.
-
-**Advantages:**
-- Completely undetected approach
-- Surfaces at the objective
-- Helios has no idea
-
-**Complications:**
-- Four encounters before they arrive — drained, possibly poisoned or diseased
-- No sloop waiting — getting the crystal crate out requires improvising
-
-**Best for:** A larger group that wants control of the basement before the ground floor fight starts.
-
----
-
-### The Smart Play — Split Party
-Hugo's group takes the street or front door — visible, deliberate, keeping Helios in conversation.
-The rest take the sewer or sloop — silent, hitting the basement while Hugo buys time above.
-
-Hugo walking into a known trap to buy his friends time is exactly what Hugo de Léon does.
-
----
 
 ## Part 3 — The Warehouse
-
-*Vaelis's sketch, if the party took his deal:*
-
-```
-          [NORTH WALL — HIDDEN DOOR / RIVER ACCESS]
-                    Helios's escape route
-
-    [GANTRY]——————————————————————————[GANTRY]
-    Archer 1                            Archer 2
-         |                                  |
-         |         GROUND FLOOR             |
-         |    crates / cover corridors      |
-         |                                  |
-    [EAST STAIRS]                    [WEST WALL]
-         |
-    [FRONT DOOR]————————————Helios / Rook / 2 guards
-
-    [TRAPDOOR — SEWER ACCESS]
-         |
-         |           BASEMENT
-         |    crystal crate      [HARBOUR ACCESS]
-         |
-    [JAUNTY'S ROOM] — bolted from outside, one guard
-```
-
----
 
 ### The Basement — The Quiet Part
 
@@ -239,8 +122,6 @@ When the fight turns against him — below half the guards down, or the basement
 
 A false panel. River access. A small private dock with a rowing boat. He planned this before the party arrived.
 
-**Vaelis did not know about this.** It is not on the sketch.
-
 Helios escapes unless the party specifically cuts off the north wall or someone is already at the river side. This is a decision they have to make in the moment with incomplete information.
 
 *He is not finished. He will be back.*
@@ -251,7 +132,7 @@ Helios escapes unless the party specifically cuts off the north wall or someone 
 
 *A crime boss, not a soldier. Dangerous in a different way.*
 
-**Helios** — AC 14 (fine clothes, concealed leather) | HP 78 | Speed 30ft
+**Helios** — AC 18 (fine clothes, concealed leather with magical enchantment) | HP 78 | Speed 30ft
 
 | Attack | Bonus | Damage | Notes |
 |--------|-------|--------|-------|
@@ -273,16 +154,11 @@ Helios escapes unless the party specifically cuts off the north wall or someone 
 
 **If the crystals are secured:** The sloop or barge takes them. Thalira coordinates from the Library. The Reach becomes the next session — Mimbi's proof of concept moment. From there the Library handles distribution and the two dangerous convergence points become the campaign endgame.
 
-**If the crystals are lost or shipped:** The bleaching becomes irreversible within weeks. Mimbi feels it. The campaign's endgame shifts — recovery becomes impossible, only containment remains.
-
-**If Helios escapes:** He is gone but not finished. The BCS without its leader is fractured — the noble alliance can move now, the Guild can act. But Helios will resurface. On his terms. At a time of his choosing.
-
-**If Helios is killed:** The BCS collapses into internal power struggle. Valandir's criminal landscape shifts entirely. Hugo's civil war is won — at a cost to be determined.
 
 ---
 
 ## Session 14 — Quick Reference
-
+[[
 | Beat | Location | Key Decision |
 |------|----------|-------------|
 | Thalira conversation | Library | Destroy or return crystals? |
@@ -294,12 +170,3 @@ Helios escapes unless the party specifically cuts off the north wall or someone 
 | Ground floor | Warehouse above | Hugo buys time |
 | Escape route | North wall | Does anyone cover it? |
 | Aftermath | Docks | Crystals, Jaunty, Helios |
-
----
-
-## Loose Threads Entering Session 14
-- Bwark's note from Serena Silmore — still unresolved
-- Garrus Vanton — warned off, unconfirmed gone
-- Cornelius Thatch — departs in four days regardless
-- The Reach ley line — first test, next session
-- The two dangerous convergence points — campaign endgame

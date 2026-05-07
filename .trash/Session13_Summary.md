@@ -1,4 +1,4 @@
-# Session 13 — The Gala
+
 ## Summary
 
 ### Pre-Gala — The Streets
@@ -54,17 +54,6 @@ Vaelis was handed to **Library guards** and taken into **Kermin Traylow's** cust
 ---
 
 ### Hector's Moment
-Before the carriages left, Hector found Hugo. He pulled him slightly aside. Quiet, measured — but something different in his eyes.
-
-*"You made a mess of this evening."*
-
-He straightened Hugo's collar. The first time he'd touched his son without it feeling like a correction.
-
-*"But you made it count."*
-
-He walked away. For Hector de Léon, that was a standing ovation.
-
----
 
 ### State of Play Leaving the Gala
 - Vaelis in Library custody. Confession given.
@@ -84,10 +73,3 @@ They do not yet know what is waiting for them.
 | Hugo | Persuasion — 19 | Rallied 5-6 noble families against Helios |
 | Mog | Athletics — 23 | Tackled and pinned Vaelis |
 | Mog | Attack vs Vaelis | Hit AC, 6 damage |
-
----
-
-## Threads Opened This Session
-- **Noble alliance** — Hugo has political capital. Fragile. Needs activating before Helios scares them off.
-- **Vaelis confession** — Velmoran syndicate confirmed. Library holds the evidence.
-- **Helios's response** — He will move swiftly and surgically. The party's window is narrow.
